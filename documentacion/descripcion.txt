@@ -1,0 +1,10 @@
+Nombre del proyecto: veterinariaDgo
+
+Problema:
+Muchas veterinarias pequenas llevan el control de sus pacientes, citas y vacunas en cuadernos o notas sueltas. Esto provoca perdida de informacion, citas encimadas y olvidos en las fechas de vacunacion, lo que afecta la salud de las mascotas y la confianza de los duenos.
+
+Objetivo:
+Desarrollar un sistema web que permita a una veterinaria registrar mascotas y duenos, agendar citas, consultar el historial clinico y enviar recordatorios de vacunas, de forma rapida y organizada.
+
+Descripcion:
+veterinariaDgo es un sistema de gestion para clinicas veterinarias. Permite crear un expediente digital por cada mascota, programar y consultar citas, registrar consultas, tratamientos y vacunas, y generar recordatorios para los duenos. Su interfaz es sencilla para que cualquier persona del personal pueda usarlo sin capacitacion avanzada.
